@@ -1,1 +1,1 @@
-# personal-site-html
+# HTML-based personal site ;-)
